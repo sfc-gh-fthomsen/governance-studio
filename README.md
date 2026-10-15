@@ -4,8 +4,6 @@ A full-stack web application for managing Snowflake data governance — users, r
 
 Built with Next.js, React, Tailwind CSS, shadcn/ui, AG Grid, and React Flow.
 
-![Role Hierarchy DAG](docs/screenshots/role-hierarchy.png)
-
 ## Features
 
 - **Role Hierarchy DAG** — Interactive graph visualization of role-to-role grants with automatic cycle detection (Tarjan SCC), search, zoom, and minimap
